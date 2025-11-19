@@ -1,0 +1,255 @@
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
+Exception ignored in: <_io.BufferedReader>
+Traceback (most recent call last):
+  File "c:\MY--------------------FOLDER\JOB\Project_FaceRec\venv\Lib\site-packages\lz4\frame\__init__.py", line 753, in flush
+    self._fp.flush()
+ValueError: I/O operation on closed file.
